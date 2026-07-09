@@ -58,11 +58,5 @@ ENTER YOUR CHOICE: 4
 Enter the number of rows: 4
       * * * * * * * * * * * * * * * * ```
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure that Python 3.10 or higher is installed on your local environment (since the codebase implements structural `match-case` patterns introduced in Python 3.10). You can check your version via:
-```bash
-python --version
+```
+### You should run my program and enjoy it after that you'll tell me how's your expirenece about this.
